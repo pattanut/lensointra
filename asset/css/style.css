@@ -1,0 +1,15 @@
+/* 
+    Document   : style
+    Created on : 2 ธ.ค. 2556, 10:57:55
+    Author     : itpattanut
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*root { 
+    display: block;
+}*/
+body {
+    /*min-height: 2000px;*/
+    padding-top: 70px;
+}
