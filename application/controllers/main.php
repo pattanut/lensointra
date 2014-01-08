@@ -12,6 +12,10 @@ class Main extends CI_Controller {
             echo 'test OK!';
         }
         
+        public function hi(){
+            echo 'hi';
+        }
+        
 }
 
 /* End of file main.php */
