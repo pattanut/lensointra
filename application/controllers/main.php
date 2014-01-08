@@ -13,7 +13,7 @@ class Main extends CI_Controller {
         }
         
         public function hi(){
-            echo 'hi';
+            echo 'hi Dev!';
         }
         
 }
